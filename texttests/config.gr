@@ -64,4 +64,7 @@ executable:${TEXTTEST_HOME}/csharp.xUnit/GildedRoseTests/bin/Debug/net8.0/Gilded
 # Settings for the OCaml version
 # executable:${TEXTTEST_HOME}/ocaml/_build/default/bin/main.exe
 
+# Settings for the rust version
+# executable:${TEXTTEST_HOME}/rust/target/debug/rust
+
 filename_convention_scheme:standard
